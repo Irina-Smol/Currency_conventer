@@ -7,9 +7,9 @@
 
 ```
 $ git clone https://github.com/Irina-Smol/Currency_conventer.git
-$ cd django-exchange-app/ 
+$ cd django-exchange-app
 $ pip install -r requirements.txt 
-$ cd app/ 
+$ cd app
 $ python manage.py migrate 
 $ python manage.py runserver
 ```
